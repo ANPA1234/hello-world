@@ -2,3 +2,7 @@ JDK - 20
 Intellij IDEA 
 GIT
 MAVEN
+
+git init
+git add .
+git commit -m "first commit"
